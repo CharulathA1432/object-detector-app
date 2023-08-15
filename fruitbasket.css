@@ -15,9 +15,7 @@ body
 }
 .link
 {
-    background-color: white;
     font-size: 20px;
-    font-family: cursive;
     background: cover;
     border-radius: 10px;
     width: 300px;
@@ -25,5 +23,6 @@ body
 }
 .link:hover
 {
-    font-size: large;
+    font-size: 25px;
+    text-decoration: underline;
 }
